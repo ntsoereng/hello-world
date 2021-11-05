@@ -6,3 +6,5 @@ This tutorial focuses mainly on Git and using Github
 This repository is built step by step in the tutorial
 
 The tutorial includes steps for setting up Github for the first time
+
+This tutorial also demonstrates how top work with branches on the remote
